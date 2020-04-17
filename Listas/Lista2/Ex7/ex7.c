@@ -1,32 +1,40 @@
+/**************************************************************************************** 
+Exercício 7 - Escreva um algoritmo que leia dois números e imprima-os em ordem crescente. 
+Considere que os números possam ser iguais.
+(a) Use apenas uma comparação entre os números!
+(b) Use apenas uma instrução ESCREVA no seu algoritmo!
+*****************************************************************************************/
+
 #include <stdio.h>
 
 void main()
 {
 
-    //declaração de variárveis de Leitura
+    // declaração de variáveis de Leitura
     float primeiro, segundo;
-    //Declaração de variáveis de resultado
-    float Num_maior, Num_menor;
+    // declaração de variáveis de resultado
+    float num_maior, num_menor;
 
-    //Leitura de Números
+    // leitura de números
     printf("Digite o primeiro número:");
     scanf("%f", &primeiro);
     printf("Digite o segundo número:");
     scanf("%f", &segundo);
 
-    //Condicionais de comparação para ordenação
+    // condicionais de comparação para ordenação
     if (primeiro > segundo)
     {
-        Num_maior = primeiro;
-        Num_menor = segundo;
+        num_maior = primeiro;
+        num_menor = segundo;
     }
     else
     {
-        Num_maior = segundo;
-        Num_menor = primeiro;
+        num_maior = segundo;
+        num_menor = primeiro;
     }
 
-    //Impressão do Resultado
-    printf(" Os números em ordem crescente são: %.f , %.f \n", Num_maior, Num_menor);
+    // impressão do resultado
+    printf(" Os números em ordem crescente são: %.f , %.f \n", num_maior, num_menor);
+    
     return 0;
 }
