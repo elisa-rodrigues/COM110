@@ -1,3 +1,6 @@
+// Autor : Paulo Antonio Cerávolo Rodrigues
+// Abril de 2020
+
 #include <stdio.h>
 
 // Exercício 2 
