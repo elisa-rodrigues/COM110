@@ -1,3 +1,10 @@
+/**************************************************************************************** 
+Exercício 7 - Escreva um algoritmo que leia dois números e imprima-os em ordem crescente. 
+Considere que os números possam ser iguais.
+(a) Use apenas uma comparação entre os números!
+(b) Use apenas uma instrução ESCREVA no seu algoritmo!
+*****************************************************************************************/
+
 #include <stdio.h>
 
 // Segunda resolução do Exercício 7 - ex7.c
