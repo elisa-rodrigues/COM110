@@ -1,9 +1,10 @@
-/**************************************************************************************** 
-Exercício 8 - Escreva um algoritmo que leia três números e imprima-os em ordem crescente. 
-Considere que os números possam ser iguais.
-*****************************************************************************************/
-
 #include <stdio.h>
+
+/*
+Exercício 8 
+Escreva um algoritmo que leia três números e imprima-os em ordem crescente. 
+Considere que os números possam ser iguais.
+*/
 
 int main()
 {
