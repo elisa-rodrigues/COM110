@@ -11,7 +11,31 @@ Escreva um algoritmo que leia a idade de uma pessoa e informe sua classe eleitor
     (c) Eleitor facultativo (entre 16 e 18 anos ou acima dos 65 anos).
 */
 
-void main()
+int main()
 {
+    // Declaração de variáveis
+    float idade;
 
+    // Leitura de Salário
+    printf("Digite a idade do eleitor: ");
+    scanf("%f", &idade);
+
+    if (idade < 16)
+    {
+        printf("A pessoa não é eleitora");
+    }
+    else if (idade < 18)
+    {
+        printf("A pessoa é eleitora facultativa");
+    }
+    else if (idade <= 65)
+    {
+        printf("A pessoa é eleitora obrigatória");
+    }
+    else
+    {
+        printf("A pessoa é eleitora facultativa");
+    }
+    printf("\n");
+    return 0;
 }
