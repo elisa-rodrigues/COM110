@@ -2,12 +2,11 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
+// Exercício 14
 /*
-
 Escreva um programa que leia vários números inteiros até que se digite um número nega-
 tivo. Em seguida, imprima o maior e o menor dentre os números lidos. Use a estrutura
 de repetição FAÇA...ENQUANTO 
-
 */
 
 #include<stdio.h>

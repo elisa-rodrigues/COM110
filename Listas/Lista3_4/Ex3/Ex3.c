@@ -2,13 +2,8 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
-/*************************************************************************
-Exercício 3
- 
-Escreva um algoritmo que ofereça ao usuário um menu com três opções de 
-escolha (1, 2 ou 3) até que uma delas seja escolhida.
-
-**************************************************************************/
+// Exercício 3
+// Escreva um algoritmo que ofereça ao usuário um menu com três opções de escolha (1, 2 ou 3) até que uma delas seja escolhida.
 
 #include <stdio.h>
 #include <math.h>

@@ -2,13 +2,8 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
-/*
-Exercicio 6
-
-Escreva um programa que leia dois números reais e imprima o resultado das quatro
-operações básicas (adição, subtração, multiplicação e divisão) sobre esses números.
-
-*/
+// Exercicio 6
+// Escreva um programa que leia dois números reais e imprima o resultado das quatro operações básicas (adição, subtração, multiplicação e divisão) sobre esses números.
 
 #include <stdio.h>
 

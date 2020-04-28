@@ -2,7 +2,8 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
-/*
+// Exercício 16 
+/* 
 Faça um programa que receba dois números inteiros n1 e n2, calcule e imprima a tabuada
 (de 0 até 10) de todos os números entre n1 e n2. Por exemplo, para n1 = 1 e n2 = 3, imprima:
 1 x 0 = 0     2 x 0 = 0     3 x 0 = 0
@@ -16,7 +17,6 @@ Faça um programa que receba dois números inteiros n1 e n2, calcule e imprima a
 1 x 8 = 8     2 x 8 = 16    3 x 8 = 24
 1 x 9 = 9     2 x 9 = 18    3 x 9 = 27
 1 x 10 = 10   2 x 10 = 20   3 x 10 = 30
-
 */
 
 #include <stdio.h>

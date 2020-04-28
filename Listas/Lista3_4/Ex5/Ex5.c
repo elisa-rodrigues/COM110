@@ -2,14 +2,8 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
-/*
-
-Exercicio 5
-
-Quantos segundos existem em x minutos? Escreva um programa que receba uma quan-
-tidade de minutos e imprima quantos segundos existem.
-
-*/
+// Exercicio 5
+// Quantos segundos existem em x minutos? Escreva um programa que receba uma quantidade de minutos e imprima quantos segundos existem.
 
 #include <stdio.h>
 

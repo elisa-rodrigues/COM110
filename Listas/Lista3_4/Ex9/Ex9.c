@@ -2,8 +2,8 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
+// Exercício 9
 /*
-
 Faça um programa que imprima na tela a mensagem de saudação a seguir, usando para
 isso uma estrutura de repetição.
 #######################
@@ -13,7 +13,6 @@ isso uma estrutura de repetição.
 # 		      #
 #                     #
 #######################
-
 */
 
 

@@ -2,11 +2,10 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
+// Exercício 13
 /*
-
 Escreva um programa que leia dois números inteiros e imprima todos os números inteiros
 entre os dois números lidos. Use a estrutura de repetição PARA.
-
 */
 
 #include<stdio.h>

@@ -2,13 +2,8 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
-/*************************************************************************
-Exercício 2
- 
-Escreva um algoritmo que leia um inteiro positivo n e imprima o 
-resultado das potências de 3, de 0 até n (3^0, 3^1, 3^2, ..., 3^n). 
-
-**************************************************************************/
+// Exercício 2 
+// Escreva um algoritmo que leia um inteiro positivo n e imprima o resultado das potências de 3, de 0 até n (3^0, 3^1, 3^2, ..., 3^n). 
 
 #include <stdio.h>
 #include <math.h>

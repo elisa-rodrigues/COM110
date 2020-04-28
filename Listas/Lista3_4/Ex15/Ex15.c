@@ -2,13 +2,12 @@
 // Autor : Paulo Antonio Cerávolo Rodrigues
 // Abril de 2020
 
+// Exercício 15
 /*
-
 Escreva um programa que leia um número inteiro n>=2 e imprima um triângulo retângulo. Por exemplo, se n=3. (Dica: use laços aninhados.)
 #
 # #
 # # #
-
 */
 
 

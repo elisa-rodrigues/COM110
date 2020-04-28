@@ -5,7 +5,6 @@
 // Exercício 1 
 // Escreva um algoritmo que leia um inteiro positivo x e imprima o resultado das potências de x, de 0 até 10 (x^0, x^1, x^2, ..., x^10). 
 
-
 #include <stdio.h>
 #include <math.h>
 
